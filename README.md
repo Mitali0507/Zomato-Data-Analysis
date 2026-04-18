@@ -15,9 +15,3 @@ Online vs Offline Orders — Dining restaurants receive predominantly offline or
 Customer Preferences — Popular cuisines, restaurant types, and ordering habits across different categories
 Ratings & Reputation — How ratings correlate with restaurant popularity and customer trust
 
-## Libraries Used
-Library Purpose 
-pandas:        Data loading, cleaning, and manipulation
-numpy:       Numerical operations 
-matplotlib:    Base plotting and chart customization
-seaborn:       Statistical visualizations and styled plots
