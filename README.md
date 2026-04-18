@@ -4,16 +4,20 @@ Python Project
 A beginner-to-intermediate level EDA project on a Zomato dataset using Python.
 The goal was to extract meaningful insights about restaurant types, customer ordering behaviour, ratings, and preferences — entirely through data wrangling and visualizations.
 
-# What's Covered
-Data Loading & Inspection — Reading the dataset, understanding shape, columns, and data types
-Data Cleaning — Handling nulls, fixing data types, removing inconsistencies
-Exploratory Data Analysis (EDA) — Visual and statistical exploration of key variables
-Insights & Observations — Drawing conclusions from graphs and plots
+## What's Covered
+### Data Loading & Inspection — Reading the dataset, understanding shape, columns, and data types
+### Data Cleaning — Handling nulls, fixing data types, removing inconsistencies
+### Exploratory Data Analysis (EDA) — Visual and statistical exploration of key variables
+### Insights & Observations — Drawing conclusions from graphs and plots
 
-# Key Insights
-Online vs Offline Orders — Dining restaurants receive predominantly offline orders, while cafés attract more online orders
-Customer Preferences — Popular cuisines, restaurant types, and ordering habits across different categories
-Ratings & Reputation — How ratings correlate with restaurant popularity and customer trust
+## Key Insights
+### Online vs Offline Orders — Dining restaurants receive predominantly offline orders, while cafés attract more online orders
+### Customer Preferences — Popular cuisines, restaurant types, and ordering habits across different categories
+### Ratings & Reputation — How ratings correlate with restaurant popularity and customer trust
 
-# Libraries Used
-LibraryPurposepandasData loading, cleaning, and manipulationnumpyNumerical operationsmatplotlibBase plotting and chart customizationseabornStatistical visualizations and styled plots
+## Libraries Used
+Library Purpose 
+#### pandas        Data loading, cleaning, and manipulation
+#### numpy         Numerical operations 
+#### matplotlib    Base plotting and chart customization
+#### seaborn       Statistical visualizations and styled plots
